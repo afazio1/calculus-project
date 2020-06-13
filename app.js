@@ -22,7 +22,7 @@ let slide2 = {
 }
 let slide3 = {
 	image: "images/3.png",
-	text: "The next unit Jimonthee is learning derivatives. His teacher explains that a particle’s velocity is just the derivative of its position. So his classmate asks him, “If the position of a particle is modeled by the function sin(2x), then what equation would model it’s velocity?” Jimonthee responds with…",
+	text: "Next, Jimonthee learns derivatives. His teacher explains that a particle’s velocity is just the derivative of its position. So his classmate asks him, “If the position of a particle is modeled by the function sin(2x), then what equation would model it’s velocity?” Jimonthee responds with…",
 	width: 960,
 	height: 540,
 	answerChoices: ["cos(2x)", "2cos(2x)", "2cos(x)"],
@@ -30,7 +30,7 @@ let slide3 = {
 }
 let slide4 = {
 	image: "images/4.png",
-	text: "Well, if Jimonthee’s going to learn about derivatives he mine as well learn about increasing/decreasing functions and concavity. Jimonthee learns that for a function to be concave up on a specific interval... ",
+	text: "Well, if Jimonthee is going to learn about derivatives he should also learn about increasing/decreasing functions and concavity. Jimonthee learns that for a function to be concave up on a specific interval... ",
 	width: 960,
 	height: 540,
 	answerChoices: ["the derivative must be increasing", "the second derivative must be decreasing", "the second derivative must be increasing", "A and C"],
@@ -46,7 +46,7 @@ let slide5 = {
 }
 let slide6 = {
 	image: "images/6.png",
-	text: "The first thing that Jimonthee needs to learn before he can move onto integrals is anti-derivatives. Jimonthee solves for the anti-derivative of 2x and gets x^2. Is he correct?",
+	text: "Before Jimonthee can learn integrals, he must learn antiderivatives. Jimonthee solves for the antiderivative of 2x and gets x^2. Is he correct?",
 	width: 960,
 	height: 540,
 	answerChoices: ["Yes", "No"],
@@ -54,7 +54,7 @@ let slide6 = {
 }
 let slide7 = {
 	image: "images/7.png",
-	text: "His teacher explains that integrals are very similar to anti-derivatives. It’s like taking a derivative, but reversed. Jimontheé asks, “What do integrals measure?”",
+	text: "His teacher explains that integrals are very similar to antiderivatives. It’s like taking a derivative, but reversed. Jimontheé asks, “What do integrals measure?”",
 	width: 960,
 	height: 540,
 	answerChoices: ["The value of a curve", "The area under a curve", "The volume under a curve"],
@@ -62,7 +62,7 @@ let slide7 = {
 }
 let slide8 = {
 	image: "images/8.png",
-	text: "“Ok so if we can find the area under a curve, then can we find the volume?” Jimonthee questions. “Good thinking Jimonthee! We can actually revolve the curve around an axis to find the volume of a solid,” his teacher explains. What’s the formula for this?",
+	text: "“Ok, so if we can find the area under a curve, then can we find the volume?” Jimonthee questions. “Good thinking Jimonthee! We can actually revolve the curve around an axis to find the volume of a solid,” his teacher explains. What’s the formula for this?",
 	width: 960,
 	height: 540,
 	answerChoices: ["images/8a.png", "images/8b.png", "images/8c.png"], 
